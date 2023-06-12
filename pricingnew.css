@@ -1,0 +1,30 @@
+body{ background-color: rgb(247, 238, 238)}
+
+.div1{ 
+    width: 200px;
+    height: 330px;
+    border-color: blue;
+    background-color:white}
+.div2{
+    width: 200px;
+    height: 50px;
+    background-color: #cf258e;
+    
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    color:white;
+    background-color: #cf258e;
+    border:#cf258e;
+}
+
+.text{
+    text-align: left;
+   
+}
+.p{
+    margin-left: 64px;
+}
+  
